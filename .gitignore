@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7741771b4bc0fbfcc84c2e297092518dcfe8823c
 # Logs
 logs
 *.log
@@ -36,7 +39,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+<<<<<<< HEAD
 dist/
+=======
+>>>>>>> 7741771b4bc0fbfcc84c2e297092518dcfe8823c
 
 # TypeScript v1 declaration files
 typings/
